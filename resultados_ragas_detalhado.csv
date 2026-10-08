@@ -1,0 +1,16 @@
+configuracao_chunking,pergunta,faithfulness,answer_relevancy
+pequeno_256,O que é a classificação NOVA de alimentos segundo o Guia Alimentar Brasileiro?,1.0,0.8942895122339104
+pequeno_256,O que significa o selo de lupa 'ALTO EM' na rotulagem nutricional?,1.0,0.709762938661266
+pequeno_256,Qual o limite recomendado pela OMS para consumo de açúcares livres?,1.0,0.9262419179772379
+pequeno_256,Quantos litros de água por dia a EFSA recomenda para homens e mulheres adultos?,1.0,0.8533378631726408
+pequeno_256,Quanta proteína por quilo de peso corporal uma pessoa fisicamente ativa precisa?,1.0,0.8820990488577497
+medio_512,O que é a classificação NOVA de alimentos segundo o Guia Alimentar Brasileiro?,1.0,0.8632988862340246
+medio_512,O que significa o selo de lupa 'ALTO EM' na rotulagem nutricional?,1.0,0.7669245036603352
+medio_512,Qual o limite recomendado pela OMS para consumo de açúcares livres?,1.0,0.7490027818410953
+medio_512,Quantos litros de água por dia a EFSA recomenda para homens e mulheres adultos?,1.0,0.7532476220695963
+medio_512,Quanta proteína por quilo de peso corporal uma pessoa fisicamente ativa precisa?,1.0,0.7434963175474781
+grande_1024,O que é a classificação NOVA de alimentos segundo o Guia Alimentar Brasileiro?,1.0,0.8851973650753081
+grande_1024,O que significa o selo de lupa 'ALTO EM' na rotulagem nutricional?,1.0,0.7681766302691341
+grande_1024,Qual o limite recomendado pela OMS para consumo de açúcares livres?,1.0,0.9262419179772379
+grande_1024,Quantos litros de água por dia a EFSA recomenda para homens e mulheres adultos?,1.0,0.8514707846397012
+grande_1024,Quanta proteína por quilo de peso corporal uma pessoa fisicamente ativa precisa?,1.0,0.7392774044435555

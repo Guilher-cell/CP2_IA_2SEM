@@ -1,0 +1,7 @@
+# Opcional — só necessário para o diferencial de reranking (cross-encoder).
+# Instale com: pip install -r requirements-reranking.txt
+#
+# É uma dependência pesada (baixa um modelo na primeira execução). Sem ela,
+# o projeto funciona normalmente — app/reranker.py detecta a ausência e o
+# pipeline simplesmente não reordena os resultados (ver reranking_disponivel()).
+sentence-transformers>=3.0.0

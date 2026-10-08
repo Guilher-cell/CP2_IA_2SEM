@@ -1,0 +1,21 @@
+# Núcleo do pipeline RAG. Diferente do CKP01, aqui não usamos ConversationChain
+# nem memórias "clássicas" do LangChain — por isso não precisamos do
+# langchain-classic (ver README.md, seção "Nota de compatibilidade").
+langchain-core>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-ollama>=0.2.0
+langchain-chroma>=0.2.0
+chromadb>=0.5.0
+
+pydantic>=2.6
+python-dotenv>=1.0.0
+tiktoken>=0.7.0
+pypdf>=4.0.0
+pandas>=2.0.0
+
+# Avaliação RAGAS (faithfulness + answer_relevancy)
+ragas>=0.2.0
+datasets>=2.19.0
+
+# Interface (diferencial)
+gradio>=5.0.0

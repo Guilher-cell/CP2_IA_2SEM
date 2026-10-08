@@ -1,0 +1,4 @@
+configuracao_chunking,faithfulness,answer_relevancy,aprovado
+grande_1024,1.0,0.8340728204809874,True
+medio_512,1.0,0.7751940222705059,True
+pequeno_256,1.0,0.853146256180561,True
