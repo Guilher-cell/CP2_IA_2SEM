@@ -279,4 +279,4 @@ docmind_rag/
 
 ---
 Disciplina: Prompt Engineering and Artificial Intelligence · FIAP · CC 2026
-Prof. Jorge Luiz Gomes · profjorge.gomes@fiap.com.br
+
